@@ -2,5 +2,6 @@ ABCDEFG
 HIJK
 LMNOP
 QRS
-TUVWXYZ
+TUV*
+WXYZ
 Now I know my ABC's
