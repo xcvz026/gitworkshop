@@ -2,7 +2,7 @@ ABCDEFG
 HIJK
 LMNOP
 QRS
-TUV*
-WXYZ
+TUV
+WXY anb Z
 Now I know my ABC's
 Next time won't you sing with me
